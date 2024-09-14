@@ -1,4 +1,4 @@
-# Hellow World, I'm Dika! 👋
+# Hello World, I'm Dika! 👋
 
 ![GitHub Banner](https://your-image-link.com/banner.png)
 
