@@ -29,10 +29,10 @@ A website that contains information about BUMDES. This web is built using the La
 - **Backend**: Laravel
 - **Database**: MySQL
 - **Features**:
-  - 🔒 **Login Authentication**: Secure login system with encrypted password storage and session management.
-  - 🛠 **Admin Dashboard**: Role-based dashboard for admins to oversee and manage key metrics.
-  - 📂 **CRUD Operations**: Manage BUMDES data (Create, Read, Update, Delete) with an intuitive interface.
-  - 📱 **Responsive Design**: Fully responsive design to ensure optimal user experience across devices.
+  - 🔒: Login auth with encrypt security.
+  - 🛠: Dashboard for Admin role.
+  - 📂: CRUD operation to manage BUMDES data and others.
+  - 📱: Responsive design.
 
 ### 📱 [Mini SIAKAD](https://github.com/Rexxpy/Mini-Siakad)
 A simple mobile application of student academic grade information system. The system allows users to view student grade data based on the number of attendance and test scores.
@@ -42,9 +42,9 @@ A simple mobile application of student academic grade information system. The sy
 - **Database**: SQLite
 - **Features**:
   - 🔒: Login auth.
-  - Feature 2: Dashboard for Admin role.
+  - 🛠: Dashboard for Admin role.
   - 📂: CRUD operations to manage student academic data and others.
-  - : Ability to view student academic grade data based on the number of attendance and test scores
+  - 📋: Ability to view student academic grade data based on the number of attendance and test scores
   - 📊: Visualization diagram to see the value data of each student 
 
 > Check out more of my projects [here](https://github.com/Rexxpy?tab=repositories)!
