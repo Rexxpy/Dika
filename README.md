@@ -1,8 +1,9 @@
-# Hello World, I'm Dika! 👋
+# Hello World ! 👋
 
-![GitHub Banner](https://your-image-link.com/banner.png)
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/4f286e4a-508c-47db-8e56-542ec2451d27">
 
 I'm a **Full Stack Developer** with a passion for building scalable web applications and engaging user experiences. I specialize in both frontend and backend development, and love to explore new technologies and frameworks. Welcome to my GitHub profile!
+
 
 ## 🌟 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -16,6 +17,7 @@ I'm a **Full Stack Developer** with a passion for building scalable web applicat
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 ## 🛠 Projects
@@ -46,6 +48,7 @@ A simple mobile application of student academic grade information system. The sy
   - Feature 5: Visualization diagram to see the value data of each student 
 
 > Check out more of my projects [here](https://github.com/Rexxpy?tab=repositories)!
+
 
 ## 🚀 About Me
 I'm a passionate developer who loves solving problems through code. Whether it's building a backend API, designing intuitive UI components, or automating workflows with DevOps tools.
