@@ -51,7 +51,7 @@ A simple mobile application of student academic grade information system. The sy
 
 
 ## 🚀 About Me
-I'm a passionate developer who loves solving problems through code. Whether it's building a backend API, designing intuitive UI components, or automating workflows with DevOps tools.
+I'm a passionate developer who loves solving problems through code. 
 
 - 🌱 **I’m currently learning**: Node Js, Express Js, React, Next Js, Vue Js, Mongo DB, TailwindCSS 
 - 💬 **Ask me about**: Full stack development, and Digital image processing
