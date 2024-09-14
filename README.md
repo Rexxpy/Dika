@@ -1,6 +1,6 @@
 # Hello World ! 👋
 
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/4f286e4a-508c-47db-8e56-542ec2451d27">
+<img width="1634" alt="Make your README" src="https://github.com/user-attachments/assets/4f286e4a-508c-47db-8e56-542ec2451d27">
 
 I'm a **Full Stack Developer** with a passion for building scalable web applications and engaging user experiences. I specialize in both frontend and backend development, and love to explore new technologies and frameworks. Welcome to my GitHub profile!
 
